@@ -1,0 +1,24 @@
+body{
+    background-image: linear-gradient(to top, #9890e3 0%, #b1f4cf 100%);
+}
+h1{
+    font-weight: bolder;
+    
+}
+.color{
+    color:#0d0d0f;
+    font-size: 20px;
+}
+.paris{
+    width:25%;
+    
+}
+p4{
+    color:rgb(225, 29, 170);
+    font-size: 23px;
+    background-color: rgb(200, 212, 218);
+}
+p5{
+    text-align:center;
+    font-size:18px;
+}
